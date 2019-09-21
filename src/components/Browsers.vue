@@ -27,7 +27,7 @@ export default {
         {
           name: "salad242",
           color: "blueviolet",
-          url: "#/salad242"
+          url: "//salad242.that0ne1rishpqtato.gq/#/browsers"
         }
       ]
     };
