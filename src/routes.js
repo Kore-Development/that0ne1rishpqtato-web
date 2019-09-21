@@ -6,7 +6,6 @@ import About from "./components/About.vue";
 import About2 from "./components/About2.vue";
 import Contact from "./components/Contact.vue";
 import SimpleCalculator from "./components/SimpleCalculator.vue";
-import salad242 from "./components/salad242.vue";
 import That0ne1rishPqtato from "./components/That0ne1rishPqtato.vue";
 
 const routes = [
@@ -18,7 +17,6 @@ const routes = [
   { path: "/about2", component: About2},
   { path: "/contact", component: Contact },
   { path: "/simplecalculator", component: SimpleCalculator },
-  { path: "/salad242", component: salad242 },
   { path: "/that0ne1rishpqtato", component: That0ne1rishPqtato }
 ];
 
