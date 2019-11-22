@@ -21,7 +21,7 @@ export default {
       items: [
         {
           name: "Simple Calculator",
-          color: "success",
+          color: "red",
           url: "#/simplecalculator"
         },
         {
